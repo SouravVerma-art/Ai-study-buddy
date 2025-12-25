@@ -122,19 +122,6 @@ This project is licensed under the ISC License.
 
 **Sourav** - Creator and maintainer of AI Study Buddy
 
-## 🙏 Acknowledgments
 
-- Google Gemini AI for providing the AI capabilities
-- React and Node.js communities for excellent documentation
-- Tailwind CSS for the beautiful styling framework
 
-## 📞 Support
 
-If you encounter any issues or have questions:
-1. Check the existing issues on GitHub
-2. Create a new issue with detailed information
-3. Ensure you have the latest version installed
-
----
-
-**Happy Learning! 🎓✨**
