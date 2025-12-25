@@ -48,12 +48,7 @@ The project consists of two main components:
 3. **Frontend Setup**
    - Navigate to the frontend directory
    - Install dependencies
-   - Start the development server
-
-### Environment Variables
-
-Create a `.env` file in the backend directory with:
-- `GEMINI_API_KEY`: Your Google Gemini AI API key
+   - Start the development serve
 
 ## How to Use
 
