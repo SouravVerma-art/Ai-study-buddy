@@ -1,30 +1,30 @@
-# AI Study Buddy 🧠📚
+# AI Study Buddy
 
 An intelligent study companion powered by Google Gemini AI, designed to help 6th-grade students learn and study more effectively.
 
-## 🌟 Features
+## Features
 
-### 🤖 AI-Powered Learning Assistant
+###  AI-Powered Learning Assistant
 - **Ask AI**: Get simple, easy-to-understand explanations of any topic
 - **Quiz Generator**: Create custom quizzes on any subject with multiple difficulty levels
 - **Text Summarizer**: Summarize long texts into digestible content
 - **Flashcard Creator**: Generate interactive flashcards for better memorization
 - **Concept Explainer**: Get detailed explanations with real-world context
 
-### 🎯 Student-Friendly Interface
+### Student-Friendly Interface
 - Clean, intuitive design perfect for young learners
 - Responsive layout that works on all devices
 - Simple navigation with tabbed interface
 - Real-time API status monitoring
 
-## 🏗️ Project Structure
+## Project Structure
 
 The project consists of two main components:
 
 - **Backend**: Node.js/Express server with Google Gemini AI integration
 - **Frontend**: React application with Tailwind CSS styling
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (version 14 or higher)
@@ -55,7 +55,7 @@ The project consists of two main components:
 Create a `.env` file in the backend directory with:
 - `GEMINI_API_KEY`: Your Google Gemini AI API key
 
-## 🎮 How to Use
+## How to Use
 
 ### Ask AI
 - Type any question in simple language
@@ -99,14 +99,14 @@ Create a `.env` file in the backend directory with:
 - **Axios**: HTTP client for API calls
 - **Responsive Design**: Mobile-first approach
 
-## 📱 Deployment
+## Deployment
 
 The frontend is configured for GitHub Pages deployment and includes:
 - Automated build process
 - Pre-deployment optimization
 - GitHub Pages integration
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues for:
 - Bug reports
@@ -114,13 +114,13 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 - Documentation improvements
 - UI/UX enhancements
 
-## 📄 License
+## License
 
 This project is licensed under the ISC License.
 
-## 👨‍💻 Author
+## Author
 
-**Sourav** - Creator and maintainer of AI Study Buddy
+**Sourav Verma** - Creator and maintainer of AI Study Buddy
 
 
 
