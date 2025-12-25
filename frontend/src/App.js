@@ -1,10 +1,10 @@
 import React from "react";
-import StudyBuddyDashboard from "./components/StudyBuddyDashboard";
+import ChatUI from "./components/ChatUI";
 
 function App() {
   return (
     <div>
-      <StudyBuddyDashboard />
+      <ChatUI />
     </div>
   );
 }

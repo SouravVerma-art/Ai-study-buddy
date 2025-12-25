@@ -1,26 +1,36 @@
-/* Center everything */
+/* App styles using new color scheme */
 .App {
   text-align: center;
   min-height: 100vh;
-  background: linear-gradient(135deg, #a78bfa, #fbcfe8, #93c5fd);
+  background: #F8FAFC;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
   padding: 2rem;
-  font-family: "Comic Neue", cursive, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
 }
 
-/* Fun header */
+/* Dark mode support */
+.dark .App {
+  background: #020617;
+}
+
+/* Header */
 .App-header {
   margin-bottom: 2rem;
-  color: #4c1d95;
+  color: #2563EB;
   font-size: 2.5rem;
   font-weight: 900;
-  text-shadow: 2px 2px #f9fafb;
 }
 
-/* Animated mascot (instead of boring logo) */
+.dark .App-header {
+  color: #6366F1;
+}
+
+/* Logo */
 .App-logo {
   height: 120px;
   margin-bottom: 1rem;
@@ -29,13 +39,22 @@
 
 /* Links */
 .App-link {
-  color: #2563eb;
+  color: #2563EB;
   font-weight: bold;
   transition: 0.3s ease;
 }
+
 .App-link:hover {
-  color: #9333ea;
+  color: #6366F1;
   text-decoration: underline;
+}
+
+.dark .App-link {
+  color: #6366F1;
+}
+
+.dark .App-link:hover {
+  color: #818cf8; 
 }
 
 /* Keyframes for mascot/logo */

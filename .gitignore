@@ -10,9 +10,13 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+# App-specific envs
+backend/.env
+frontend/.env
 
 # Production builds
 build/
+frontend/build/
 dist/
 *.tgz
 *.tar.gz
