@@ -84,7 +84,7 @@ Create a `.env` file in the backend directory with:
 - Provide context or examples
 - Get detailed explanations with real-world applications
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Backend
 - **Node.js**: Runtime environment
